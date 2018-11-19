@@ -1,1 +1,7 @@
 /Debug
+/.vs
+*.suo
+*.db
+*.log
+*.idb
+*.pdb
