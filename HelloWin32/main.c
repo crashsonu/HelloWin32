@@ -1,5 +1,6 @@
 /*
 All function can be called in main function of this file.
+main file.
 */
 
 #include<stdio.h>
