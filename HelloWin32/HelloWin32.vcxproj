@@ -140,10 +140,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="console_io_func.c" />
+    <ClCompile Include="for_loop_examples.c" />
     <ClCompile Include="get_factorial.c" />
     <ClCompile Include="learn_sizeof_func.c" />
     <ClCompile Include="get_grades_of_marks.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="test.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -27,5 +27,14 @@
     <ClCompile Include="learn_sizeof_func.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="for_loop_examples.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="test.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="console_io_func.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
