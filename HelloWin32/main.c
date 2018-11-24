@@ -12,5 +12,5 @@ void main()
 	//	// dynamicPiramid(11);
 	//	//int_typeCast();
 	//	my_loop();
-	print_1_100_num();
+	get_factor();
 }
